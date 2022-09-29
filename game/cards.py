@@ -21,23 +21,23 @@ class Card:
         pass
 
 # 3) Display int between 1 to 13
-    def display_card():
+    def display_card(self):
         pass
 
 # 4) Player guess higher or lower
-    def ask_player():
+    def ask_player(self):
         pass
 
 # 5) Display amount earned or lost +100 points if correct, -75 if incorrect
-    def earned_lost():
+    def earned_lost(self):
         pass
 
 # 6) Keep overall score, game started at 300, ends if player reaches 0
-    def overall_score():
+    def overall_score(self):
         pass
 
 # 7) Ask playing to keep playing if points > 0
-    def keep_playing():
+    def keep_playing(self):
         pass
 
 
