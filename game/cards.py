@@ -5,7 +5,7 @@ import random
 # 1) Add the class declaration. Use the following class comment.
 class Card:
     """
-    Responsibility:
+    Responsibility: to hold and display card information
 
     Attributes:
     
@@ -15,11 +15,29 @@ class Card:
     def __init__(self) -> None:
         """ Constructs
     
-        Args:
+        Args: 
 
         """
+        pass
 
-# 3)
+# 3) Display int between 1 to 13
+    def display_card():
+        pass
 
+# 4) Player guess higher or lower
+    def ask_player():
+        pass
+
+# 5) Display amount earned or lost +100 points if correct, -75 if incorrect
+    def earned_lost():
+        pass
+
+# 6) Keep overall score, game started at 300, ends if player reaches 0
+    def overall_score():
+        pass
+
+# 7) Ask playing to keep playing if points > 0
+    def keep_playing():
+        pass
 
 
